@@ -1,0 +1,12 @@
+{
+    "presets": [
+        [
+            "@babel/typescript",
+            {
+                "targets": {
+                    "node": "12"
+                }
+            }
+        ]
+    ]
+}
