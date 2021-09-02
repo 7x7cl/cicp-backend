@@ -1,0 +1,21 @@
+{
+  "couchdb": {
+    "uuid": "5b5b26cf-9205-4be3-b15c-76e6f729a1df"
+  },
+  "admins": {
+    "Esteban": "-pbkdf2-a3d97003177e497992107f8614bf33c3481cc63e,10d1e610a1cd1041b012410713b1471e91741d51cd1661dd,10"
+  },
+  "cors": {
+    "headers": "accept, authorization, content-type, origin, referer",
+    "credentials": true
+  }
+}
+methods": "GET, PUT, POST, HEAD, DELETE"
+  },
+  "httpd": {
+    "enable_cors": true
+  }
+}
+_cors": true
+  }
+}
